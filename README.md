@@ -1,6 +1,6 @@
 # Book Read Website
 <h1 style="font-size:20px">Responsive Book Read Website using react.js and tailwind css</h1>
-<p><a href="https://book-read-website.netlify.app/books">View The Live Website Deployment </a></p>
+<p><a href="https://book-read-website.netlify.app/">View The Live Website Deployment </a></p>
 
 <h2 style="font-size:20px">Technology used to make this website</h2>
 
